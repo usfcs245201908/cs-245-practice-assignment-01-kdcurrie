@@ -1,2 +1,3 @@
-# CS245_201908_P01
-Practice Assignment 01
+# CS 245 - Fall 2019 - Practice Assignment 01
+
+See details on Canvas.
